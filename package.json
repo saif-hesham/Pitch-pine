@@ -1,0 +1,15 @@
+{
+  "name": "peach-pine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d pitch-pine"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.io/saif-hesham/pitch-pine",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
